@@ -12,6 +12,6 @@ GAS初級講座LTで作成したslackのステータス変更のコードです�
 
 休日のデータを入力しておくスプレッドシートのシート名は ```data``` です。
 
-<img src="https://github.com/juju-voodoo/imageArchive/blob/main/dataSpreadSheetExample.png" alt="データ画像" titel="見本" width="70%" height="70%">
+<img src="https://github.com/juju-voodoo/imageArchive/blob/main/dataSpreadSheetExample.png" alt="データ画像" titel="見本" width="50%" height="50%">
 
 
